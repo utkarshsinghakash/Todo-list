@@ -1,0 +1,32 @@
+body {
+  text-align: center;
+  margin: 2rem;
+  background-color: rgb(245, 204, 160);
+}
+.task-container {
+  justify-content: center;
+  margin-bottom: 0.5rem;
+}
+
+.add-bar input {
+  height: 1.5rem;
+  width: 12rem;
+}
+.Alltask {
+  border: 2px solid rgb(107, 36, 12);
+  height: 500px;
+  width: 100%;
+  margin-bottom: 0.5rem;
+}
+.Alltask li {
+  margin: 1rem;
+}
+.add-bar .input {
+  background-color: rgb(245, 204, 160);
+  border: 0.5px solid grey;
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+}
