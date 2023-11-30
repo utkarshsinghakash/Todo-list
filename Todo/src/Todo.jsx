@@ -97,7 +97,7 @@ export default function todo() {
             <br></br>
             <br></br>
 
-            <Priority />
+            <Priority style={{ backgroundColor: "#994D1C", color: "white" }} />
             <br></br>
             <Button
               onClick={Addtask}
